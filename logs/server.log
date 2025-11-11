@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [178] using StatReload
-INFO:     Started server process [180]
+INFO:     Started reloader process [222] using StatReload
+INFO:     Started server process [224]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:56498 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:56514 - "GET /portfolio HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56516 - "GET /services HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56514 - "GET /portfolio HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56516 - "GET /services HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46854 - "GET /services HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46866 - "GET /portfolio HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46854 - "GET /services HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46866 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53532 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:48828 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48828 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48828 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48828 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48828 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48828 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48838 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48838 - "GET /portfolio HTTP/1.1" 200 OK
